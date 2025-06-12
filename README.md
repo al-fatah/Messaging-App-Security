@@ -1,12 +1,12 @@
-# 🔐 Multi-Platform Messaging Service – Security Architecture Project
+# Multi-Platform Messaging Service – Security Architecture Project
 
-## 📘 Project Overview
+## Project Overview
 
 This project aims to design, document, and validate the **end-to-end security architecture** of a messaging platform that supports smartphones, tablets, desktops, and feature phones. The backend uses a **microservices architecture** with heterogeneous technology stacks, requiring robust security across all layers.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Identify and define security requirements
 - Perform STRIDE-based threat modelling
@@ -16,7 +16,7 @@ This project aims to design, document, and validate the **end-to-end security ar
 
 ---
 
-## 🧩 System Scope
+## System Scope
 
 ### Clients
 - Android and iOS mobile apps
@@ -34,7 +34,7 @@ This project aims to design, document, and validate the **end-to-end security ar
 
 ---
 
-## 🧠 Threat Modelling (STRIDE)
+## Threat Modelling (STRIDE)
 
 | Category        | Threats Addressed                                      |
 |----------------|--------------------------------------------------------|
@@ -47,7 +47,7 @@ This project aims to design, document, and validate the **end-to-end security ar
 
 ---
 
-## 🛡️ Security Controls
+## Security Controls
 
 ### Authentication & Access
 - OAuth2 with PKCE
@@ -75,7 +75,7 @@ This project aims to design, document, and validate the **end-to-end security ar
 
 ---
 
-## 🧪 Security Testing
+## Security Testing
 
 | Area           | Tools & Methods                          |
 |----------------|-------------------------------------------|
